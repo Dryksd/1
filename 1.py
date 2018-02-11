@@ -1,6 +1,5 @@
 from random import randint
 
-
 as_a = []
 while len(as_a) < 21:
     as_a.append((randint(0,100)))
